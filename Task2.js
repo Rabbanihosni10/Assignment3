@@ -1,3 +1,7 @@
 function filterActiveUsers(users) {
-    // Write your code here
+    
 }
+console.log(filterActiveUsers([
+ {name:"A", isActive:true},
+ {name:"B", isActive:false}
+]));
